@@ -1,54 +1,56 @@
-Word | Phrase
---- | ---
-Bronana |
-Bronado |
-Brotocycle |
-Brolar system |
-Brotisserie chicken |
-Bromanian empire |
-Brosquito |
-Broku remote |
-SupercalifragilisticexpialiBROcious |
-Brotatoe chip |
-Macabroni and cheese |
-Frank Brocean |
-Brochaco |
-Brotien bar |
-Brotosynthesis |
-Bromania |
-Brojob |
-Brometry |
-Bread broll |
-Brorrito |
-Brotilla |
-Brosidian |
-Brozone layer |
-Abroham Lincoln |
-Broviet Union |
-Bronslaught |
-Brobro Siwa |
-Bropane tank |
-Bromas Jefferson |
-Brody and the Beast |
-Brohemian Rhapsody |
-Brobot |
-Brocabulary |
-Brometheus |
-Brotagonist |
-Brofessor |
-Brovid 19 |
-Brobarian |
-Brocaine |
-Broast beef |
-Bropaganda |
-Brocket League |
-Brolympics |
-Brotary engine |
-Brocessor chip |
- | Bro bro row your boat
- | Broster in a Toaster
- | Brokemon GO
- | Bromeo and Dudelier
- | Broblox FLEE THE FACILITY
- | Old Brodonald had a farm
- | Computer brogram RUN
+## Words
+- Bronana
+- Bronado
+- Brotocycle
+- Brolar system
+- Brosa parks
+- Brotisserie chicken
+- Bromanian empire
+- Brosquito
+- Broku remote
+- SupercalifragilisticexpialiBROcious
+- Brokemon GO
+- Bromeo and dudeliet
+- Brotatoe chip
+- Macabroni and cheese
+- Frank Brocean
+- Brochaco
+- Brotien bar
+- Brotosynthesis
+- Bromania
+- Brojob
+- Brometry DASH
+- Bread broll RUN
+- Brorrito
+- Brotilla
+- Brosidian
+- Brozone layer
+- Abroham Lincoln
+- Broviet union
+- Bronslaught
+- Brobro siwa
+- Bropane tank
+- Bromas Jefferson
+- Brody and the beast
+- Brohemian rhapsody
+- Brobot
+- Brocabulary
+- Brometheus
+- Brotagonist
+- Brofessor
+- Brovid 19
+- Brobarian
+- Brocaine
+- Broast beef
+- Bropaganda
+- Brocket league
+- Brolympics
+- Brotary engine
+- Brocessor chip
+
+## Phrases
+- Bro bro row your boat
+- Broster in a toaster
+- Broblox FLEE THE FACILITY
+- Old brodonald had a farm, ei ei GO
+- Computer brogram RUN
