@@ -1,50 +1,71 @@
 > [!NOTE]
 > To clarify, these only work with games which don't filter out **Unity Rich Text Tags**.
 
-<i>text</i>  
-- Italics
+---
 
-<b>text</b>  
-- Bold
+### Italics
+```<i>text</i>```
+```<i>text```
 
-<u>text</u>  
-- Underline (not always supported)
+### Bold
+```<b>text</b>```
+```<b>```
 
-<s>text</s>  
-- Strikethrough (newer Unity only)
+### Underline
+```<u>text</u>```
+```<u>```
 
-<color=#RRGGBB>text</color>  
-<#RRGGBB>  
-- Coloring (hex format, shorthand may work depending on game)
+### Strikethrough (Newer Unity only)
+```<s>text</s>```
+```<s>```
 
-<alpha=#AA>text</alpha>  
-- Transparency (00–FF)
+### Coloring
+```<color=#RRGGBB>text</color>```  
+```<#RRGGBB>text```
+```<#RGB>text```  
 
-<size=10>text</size>  
-<size=150%>text</size>  
-- Font size (absolute or percentage)
+### Transparency (00-FF)
+```<alpha=#AA>text</alpha>```
+```<alpha=#AA>text```  
 
-<mark=#RRGGBB>text</mark>  
-- Highlight / background color
+### Size
+```<size=10>text</size>```  
+```<size=150%>text```
 
-<cspace=1>text</cspace>  
-- Character spacing
+### Highlighting and Background Colour
+```<mark=#RRGGBB>text</mark>```
+```<mark=#RGB>text</mark>```
+```<mark=#RRGGBB>text```
+```<mark=#RGB>text```
 
-<mspace=1>text</mspace>  
-- Monospace spacing
+### Spacing
+```<cspace=1>text</cspace>```
+```<cspace=1>text```
 
-<voffset=10>text</voffset>  
-- Vertical offset (superscript/subscript effect)
+#### Monospacing
+```<mspace=1>text</mspace>```
+```<mspace=1>text```
 
-<align=left>text</align>  
-<align=center>text</align>  
-<align=right>text</align>  
-- Text alignment (rare in names)
+### Offset
+```<voffset=10>text</voffset>```
+```<voffset=10>text```
 
-<uppercase>text</uppercase>  
-<lowercase>text</lowercase>  
-<smallcaps>text</smallcaps>  
-- Case transformations
+### Alignment
+```<align=left>text</align>```
+```<align=center>text</align>```
+```<align=right>text</align>```
+```<align=left>text```
+```<align=center>text```
+```<align=right>text```
 
-<font="FontName">text</font>  
-- Custom font (almost never works in games)
+### Casing
+```<uppercase>text</uppercase>```
+```<lowercase>text</lowercase>```
+```<smallcaps>text</smallcaps>```
+```<uppercase>text```
+```<lowercase>text```
+```<smallcaps>text```
+
+### Font (Might not work in alot of games)
+```<font="FontName">text</font>```
+```<font="FontName">text```
