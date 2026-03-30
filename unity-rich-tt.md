@@ -1,6 +1,6 @@
 > [!NOTE]
 > To clarify, these only work with games which don't filter out **Unity Rich Text Tags**.
-
+> There are also many ways to do the same thing, so I have listed all of them here.
 ---
 
 ### Italics
