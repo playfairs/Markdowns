@@ -123,7 +123,7 @@
 
 ### Underline
 ```<u>text</u>```
-```<u>textv
+```<u>textv```
 
 ### Uppercase
 ```<uppercase>text</uppercase>```
