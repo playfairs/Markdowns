@@ -8,7 +8,7 @@
 ```<allcaps>text```
 
 ### Align
-```<align=center>text</align>
+```<align=center>text</align>```
 ```<align=left>text</align>```
 ```<align=right>text</align>```
 ```<align=center>text```
