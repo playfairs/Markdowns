@@ -1,9 +1,12 @@
-# List of random Domain Redirects I found while domain hopping
+# List of Random Domain Redirects I Found While Domain Hopping
 
 Some of these make genuinely no sense to me, so that's why I made this.
 
----------------------
-redirection | origin
----------------------
-https://paranoia.com | https://www.disney.com
-https://terminal.dev | https://www.starbucks.com
+---
+
+## Redirect Map
+
+| Origin | Redirects To |
+|--------|--------------|
+| https://paranoia.com | https://www.disney.com |
+| https://terminal.dev | https://www.starbucks.com |
